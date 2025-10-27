@@ -10,10 +10,22 @@
   }
 }
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+}
+
+/* Design tokens (common in real-world setups) */
+@layer base {
+  :root {
+    --bg: 255 255 255;
+    --fg: 17 24 39;
+  }
 }
 
 body {
