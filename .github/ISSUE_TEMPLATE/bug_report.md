@@ -2,8 +2,8 @@
 name: Bug report
 about: 버그 이슈 관련
 title: ''
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: kyungchan3007
 
 ---
 
