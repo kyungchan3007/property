@@ -35,15 +35,8 @@ assignees: ''
 - TailwindCSS
 - Storybook / Jest / Playwright
 
-#### **Backend / Infra**
-- (Optional) Express.js / Nest.js / Firebase / AWS Lambda  
-- OpenAI API (GPT-4o-mini or GPT-5-nano)
-
 #### **Tools & Workflow**
-- GitHub Actions (CI/CD)
-- Chromatic (Storybook Test)
-- SonarQube (Static Analysis)
-- Vercel (Deploy)
+- GPT (API KEY)
 
 ---
 
