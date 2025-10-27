@@ -1,6 +1,6 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
+about: "- 기능 , 코드 리펙토링"
 title: ''
 labels: ''
 assignees: ''
@@ -10,7 +10,7 @@ assignees: ''
 ## 💡 기능 제안 (Custom issue )
 
 ### 🧾 개요 (Summary)
-> 어떤 기능을 리펙토링 하셨나요?
+> 어떤 기능, 코드 를 리펙토링 하셨나요?
 예시) 지도에서 아파트 실거래가 필터 기능 추가 요청
 
 ---
