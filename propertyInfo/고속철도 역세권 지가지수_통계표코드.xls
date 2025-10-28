@@ -1,0 +1,737 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+		
+		
+		
+			
+		
+		
+
+		
+
+		
+
+		
+	
+	
+</head>
+<body>
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+	
+		<!-- OpenAPI_항목분류 리스트 2025-01-06 추가 -->
+		
+				<table style="width: 850px; border: 1px solid #000000;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+				</colgroup>
+				<thead>
+					<tr>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목명</th>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목코드</th>
+					</tr>
+				</thead>
+				<tbody>
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">지수</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100001</td>
+							</tr>
+						
+					
+				</tbody>
+			</table>
+		
+
+		
+
+		
+				<table style="width: 850px; border: 1px solid #000000; margin-top: 20px;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+					
+						  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 바꿔줘야함 -->
+						<col style="width:200px;"/>
+						
+					
+				</colgroup>
+					
+						
+						
+						
+							<thead>
+								<tr>
+									<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>분류명</th>
+									
+									
+										<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>지역코드</th>
+										<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>법정동코드</th>
+									
+								</tr>
+							</thead>
+						
+					
+
+				<tbody>
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>수서역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510001</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003010</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>평택지제역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510002</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003070</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>강릉역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510003</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003110</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>둔내역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510004</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003120</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>평창역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510005</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003130</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>구포역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510006</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003160</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>김천구미역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510007</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003180</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전>대전역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510008</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003220</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>동대구역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510009</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003240</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>밀양역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510010</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003250</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>부산역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510011</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003170</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>서울역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510012</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003020</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>수원역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510013</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003080</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>영등포역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510014</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003030</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>용산역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510015</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003040</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>청량리역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510016</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003050</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>행신역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510017</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003090</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>마산역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510018</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003260</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>진주역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510019</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003270</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>창원역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510020</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003280</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>창원중앙역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510021</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003290</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>상봉역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510022</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003060</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>동해역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510023</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003140</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>묵호역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510024</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003150</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>남원역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510025</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003300</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>순천역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510026</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003390</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>여천역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510027</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003400</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>전주역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510028</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003310</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>안동역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510029</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003190</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>양평역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510030</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003100</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>영주역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510031</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003200</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>제천역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510032</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003340</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>풍기역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510033</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003210</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>오송역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510034</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003350</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>충주역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510035</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003360</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>계룡역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510036</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003370</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">광주>광주송정역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510037</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003430</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>나주역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510038</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003410</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>논산역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510039</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003380</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>목포역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510040</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003420</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전>서대전역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510041</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003230</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>익산역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510042</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003320</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>정읍역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510043</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1003330</td>
+									
+								
+							</tr>
+						
+					
+						
+					
+				</tbody>
+			</table>
+		
+
+	
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+</body>
+</html>

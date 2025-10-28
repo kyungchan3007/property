@@ -1,16 +1,21 @@
 import { useState } from "react";
-import { HistoryMessage } from "./userChatBot";
+import { HistoryMessage } from "../types/userChatBox";
 import { detectPromptType, PROMPT_RULES } from "./promptRule";
+import { useMessageBoxStore, useSessionIdStore } from "./promptStore";
 
 export const useChatAI = () => {
   const [isGptLoading, setIsGptLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const { addMessage } = useMessageBoxStore();
 
-  const sendChat = async (messages: HistoryMessage[]) => {
-    const lastMessage = messages.filter((m) => m.role === "user").slice(-1)[0];
+  const sendChat = async (
+    messages: Omit<HistoryMessage, "timestamp" | "sessionId">[],
+    sessionId: string,
+  ) => {
+    const lastMessage = messages.findLast((m) => m.role === "user");
     const userContent = lastMessage?.content || "";
     const promptRuleString = detectPromptType(userContent);
-    const prompotRule = PROMPT_RULES[promptRuleString];
+    const promptRule = PROMPT_RULES[promptRuleString];
 
     try {
       setIsGptLoading(true);
@@ -19,12 +24,29 @@ export const useChatAI = () => {
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ messages, promptType: prompotRule }),
+        body: JSON.stringify({
+          messages,
+          promptType: promptRule,
+        }),
       });
 
       if (!res.ok) throw new Error("GPT 요청 실패");
+
       const data = await res.json();
-      console.log(data);
+
+      addMessage(sessionId, {
+        sessionId,
+        id: data.thread_id,
+        role: "assistant",
+        content: data.message,
+        timestamp: new Date(),
+      });
+
+      // if (data.thread_id && data.thread_id !== threadId) {
+      //   localStorage.setItem("threadId", data.thread_id);
+      //   setThreadId(data.thread_id);
+      // }
+
       return data.message;
     } catch (err: any) {
       setError(err.message);

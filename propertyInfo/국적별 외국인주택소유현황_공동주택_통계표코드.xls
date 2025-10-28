@@ -1,0 +1,296 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+		
+		
+		
+			
+		
+		
+
+		
+
+		
+
+		
+	
+	
+</head>
+<body>
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+	
+		<!-- OpenAPI_항목분류 리스트 2025-01-06 추가 -->
+		
+				<table style="width: 850px; border: 1px solid #000000;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+				</colgroup>
+				<thead>
+					<tr>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목명</th>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목코드</th>
+					</tr>
+				</thead>
+				<tbody>
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">주택수</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100001</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">(지분반영주택수)</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100002</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">소유자수</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100003</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">1인당 평균소유주택수</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100004</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">(지분반영 1인당 평균소유주택수)</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100005</td>
+							</tr>
+						
+					
+				</tbody>
+			</table>
+		
+
+		
+
+		
+				<table style="width: 850px; border: 1px solid #000000; margin-top: 20px;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+					
+				</colgroup>
+					
+						
+						
+						
+							<thead>
+								<tr>
+									<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>분류명</th>
+									
+										<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>분류코드</th>
+									
+									
+								</tr>
+							</thead>
+						
+					
+
+				<tbody>
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">중국</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500001</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">미국</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500002</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">캐나다</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500003</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">일본</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500004</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대만</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500005</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">호주</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500006</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">베트남</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500007</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">뉴질랜드</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500008</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">영/프/독</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500009</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">기타아시아</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500010</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">기타유럽</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500011</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">기타국가</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500012</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">기타</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500013</td>
+								
+							</tr>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+				</tbody>
+			</table>
+		
+
+	
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+</body>
+</html>

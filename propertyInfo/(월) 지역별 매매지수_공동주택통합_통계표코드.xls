@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+		
+		
+		
+			
+		
+		
+
+		
+
+		
+
+		
+	
+	
+</head>
+<body>
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+	
+		<!-- OpenAPI_항목분류 리스트 2025-01-06 추가 -->
+		
+				<table style="width: 850px; border: 1px solid #000000;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+				</colgroup>
+				<thead>
+					<tr>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목명</th>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목코드</th>
+					</tr>
+				</thead>
+				<tbody>
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">지수</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100001</td>
+							</tr>
+						
+					
+				</tbody>
+			</table>
+		
+
+		
+
+		
+				<table style="width: 850px; border: 1px solid #000000; margin-top: 20px;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+					
+						  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 바꿔줘야함 -->
+						<col style="width:200px;"/>
+						
+					
+				</colgroup>
+					
+						
+						
+						
+							<thead>
+								<tr>
+									<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>분류명</th>
+									
+									
+										<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>지역코드</th>
+										<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>법정동코드</th>
+									
+								</tr>
+							</thead>
+						
+					
+
+				<tbody>
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전국</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500001</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000010</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">수도권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500002</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000020</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">지방</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500003</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000030</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">6대광역시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500004</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000040</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">5대광역시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500005</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000050</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">8개도</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500006</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000070</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500007</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500008</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500009</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41000000</td>
+									
+								
+							</tr>
+						
+					
+						
+					
+				</tbody>
+			</table>
+		
+
+	
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+</body>
+</html>
