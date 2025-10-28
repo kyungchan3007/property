@@ -1,5 +1,5 @@
 import { Bot, User } from "lucide-react";
-import { HistoryMessage, HistoryMessageProps } from "../model/userChatBot";
+import { HistoryMessageProps } from "../types/userChatBox/userChatBot";
 
 export const ChatHistory = ({ message }: HistoryMessageProps) => {
   return (
