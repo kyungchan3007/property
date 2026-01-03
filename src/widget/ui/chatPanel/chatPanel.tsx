@@ -6,6 +6,8 @@ import { ChatHistory, SumitButton } from "@/src/features/chatbot";
 import { HistoryMessage } from "@/src/features/chatbot/types/userChatBox/userChatBot";
 import { MessageBox } from "@/src/shared/ui/messageBox";
 import { useSessionIdStore } from "@/src/features/chatbot/model";
+import Image from "next/image";
+import pinguImage from "@/src/assets/image/pingu.jpeg";
 
 export default function ChatbotUI() {
   const { sessionId, setSessionId } = useSessionIdStore();
@@ -54,7 +56,13 @@ export default function ChatbotUI() {
                 <div className="flex gap-2">
                   <div className="flex-shrink-0 mt-1">
                     <div className="w-7 h-7 rounded-full bg-blue-500 flex items-center justify-center">
-                      <Bot className="w-4 h-4 text-white" strokeWidth={2.5} />
+                      <Image
+                        src={pinguImage}
+                        alt="핑구 어시스턴트"
+                        width={28}
+                        height={28}
+                        className="w-full h-full object-cover rounded-2xl"
+                      />
                     </div>
                   </div>
                   <div className="bg-white px-4 py-3 rounded-3xl rounded-tl-lg border border-gray-200">
@@ -78,9 +86,7 @@ export default function ChatbotUI() {
               <div ref={messagesEndRef} />
             </div>
           </div>
-          <div className="w-screen">
-            <MessageBox />
-          </div>
+          <div className="w-screen" />
         </div>
       </div>
       <SumitButton
