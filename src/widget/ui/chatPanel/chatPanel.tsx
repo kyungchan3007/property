@@ -44,9 +44,7 @@ export default function ChatbotUI() {
       <Header />
       <div className="flex-1 overflow-y-auto px-5 py-6 bg-gray-50">
         <div className="flex justify-center">
-          <div className="w-screen">
-            <MessageBox />
-          </div>
+          <div className="w-screen">{/*<MessageBox />*/}</div>
           <div className="w-screen">
             <div className="flex-1 max-w-3xl mx-auto space-y-4">
               {messages.map((message) => (
