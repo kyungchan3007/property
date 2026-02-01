@@ -30,7 +30,7 @@ export const useChatAI = () => {
         }),
       });
 
-      if (!res.ok) throw new Error("GPT 요청 실패");
+      if (!res.ok) throw new Error("요청 실패");
 
       const data = await res.json();
 
@@ -41,11 +41,6 @@ export const useChatAI = () => {
         content: data.message,
         timestamp: new Date(),
       });
-
-      // if (data.thread_id && data.thread_id !== threadId) {
-      //   localStorage.setItem("threadId", data.thread_id);
-      //   setThreadId(data.thread_id);
-      // }
 
       return data.message;
     } catch (err: any) {

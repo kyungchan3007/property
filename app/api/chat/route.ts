@@ -19,7 +19,7 @@ export async function POST(req: Request) {
       input: [{ role: "system", content: promptType }, ...messages],
       store: true,
     } as ResponseCreateParamsWithThread);
-    const message = response.output_text || "응답 없음 😅";
+    const message = response.output_text || "응답 없음";
     return NextResponse.json({
       message,
       thread_id: response._request_id,
