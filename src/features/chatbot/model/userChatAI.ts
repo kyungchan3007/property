@@ -1,6 +1,6 @@
 import { useState } from "react";
+import { resolvePromptRule, toChatRequestMessages } from "@property/chat-core";
 import { HistoryMessage } from "../types/userChatBox";
-import { detectPromptType, PROMPT_RULES } from "./promptRule";
 import { useMessageBoxStore } from "./promptStore";
 import { ChatGateway } from "./chatGateway";
 
@@ -15,19 +15,14 @@ export const useChatAI = (gateway: ChatGateway) => {
   ) => {
     const lastMessage = messages.findLast((m) => m.role === "user");
     const userContent = lastMessage?.content || "";
-    const promptRuleString = detectPromptType(userContent);
-    const promptRule = PROMPT_RULES[promptRuleString];
+    const promptRule = resolvePromptRule(userContent);
 
     try {
       setIsGptLoading(true);
       setError(null);
 
       const data = await gateway.send({
-        messages: messages.map((m) => ({
-          id: m.id,
-          role: m.role,
-          content: m.content,
-        })),
+        messages: toChatRequestMessages(messages),
         promptType: promptRule,
       });
 

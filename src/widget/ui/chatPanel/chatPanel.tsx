@@ -1,16 +1,15 @@
 "use client";
-import { useState, useRef, useEffect } from "react";
-import { Bot } from "lucide-react";
+import { useState, useRef, useEffect, useMemo } from "react";
 import { Header } from "@/src/features/header";
 import { ChatHistory, SumitButton } from "@/src/features/chatbot";
 import { HistoryMessage } from "@/src/features/chatbot/types/userChatBox/userChatBot";
-import { MessageBox } from "@/src/shared/ui/messageBox";
-import { useSessionIdStore } from "@/src/features/chatbot/model";
+import { BrowserSessionGateway, useChatSession } from "@/src/features/chatbot/model";
 import Image from "next/image";
 import pinguImage from "@/src/assets/image/pingu.jpeg";
 
 export default function ChatbotUI() {
-  const { sessionId, setSessionId } = useSessionIdStore();
+  const sessionGateway = useMemo(() => new BrowserSessionGateway(), []);
+  const sessionId = useChatSession(sessionGateway);
   const [messages, setMessages] = useState<HistoryMessage[]>([
     {
       sessionId: sessionId ?? "",
@@ -29,22 +28,14 @@ export default function ChatbotUI() {
 
   useEffect(() => {
     scrollToBottom();
-    const existingId = localStorage.getItem("chatSessionId");
-    if (existingId) {
-      setSessionId(existingId);
-    } else {
-      const newId = crypto.randomUUID();
-      localStorage.setItem("chatSessionId", newId);
-      setSessionId(newId);
-    }
-  }, [messages, setSessionId]);
+  }, [messages]);
 
   return (
     <div className="flex flex-col h-screen bg-white">
       <Header />
       <div className="flex-1 overflow-y-auto px-5 py-6 bg-gray-50">
         <div className="flex justify-center">
-          <div className="w-screen">{/*<MessageBox />*/}</div>
+          <div className="w-screen" />
           <div className="w-screen">
             <div className="flex-1 max-w-3xl mx-auto space-y-4">
               {messages.map((message) => (
