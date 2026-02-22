@@ -1,4 +1,4 @@
-import { ChatRequestMessage } from "@property/chat-core";
+import { ChatRequestMessage } from "pinhouse-chat";
 
 export type ChatRequest = {
   messages: ChatRequestMessage[];

@@ -3,7 +3,7 @@ import {
   createAssistantErrorMessage,
   createAssistantMessage,
   createUserMessage,
-} from "@property/chat-core";
+} from "pinhouse-chat";
 import { HistoryMessage } from "../types/userChatBox";
 
 type UseChatSubmitParams = {
