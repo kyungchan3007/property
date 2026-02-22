@@ -1,0 +1,803 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+		
+		
+		
+			
+		
+		
+
+		
+
+		
+
+		
+	
+	
+</head>
+<body>
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+	
+		<!-- OpenAPI_항목분류 리스트 2025-01-06 추가 -->
+		
+				<table style="width: 850px; border: 1px solid #000000;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+				</colgroup>
+				<thead>
+					<tr>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목명</th>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목코드</th>
+					</tr>
+				</thead>
+				<tbody>
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">지수</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">10001</td>
+							</tr>
+						
+					
+				</tbody>
+			</table>
+		
+
+		
+				<table style="width: 850px; border: 1px solid #000000; margin-top: 20px;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+					
+						<col style="width:200px;"/>
+					
+				</colgroup>
+			
+				
+				
+					<thead>
+						<tr>
+							<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>그룹명</th>
+							
+							
+								<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>지역코드</th>
+								<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>법정동코드</th>
+							
+						</tr>
+					</thead>
+				
+			
+				<tbody>
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전국</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60001</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000010</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">수도권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60002</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000020</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">지방권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60003</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000030</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60004</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">11000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강북지역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60005</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002010</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강북지역>도심권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60006</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002011</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강북지역>동북권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60007</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002012</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강북지역>서북권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60008</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002013</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강남지역</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60009</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002020</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강남지역>서남권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60010</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002014</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강남지역>동남권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60011</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002015</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60012</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">41000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>경부1권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60013</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002080</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>경부2권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60014</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002090</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>서해안권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60015</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002100</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>동부1권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60016</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002110</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>동부2권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60017</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002120</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>경의권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60018</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002130</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>경원권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60019</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002140</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60020</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">28000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60021</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">26000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>중부산권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60022</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002150</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>동부산권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60023</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002160</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>서부산권</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60024</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1002170</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60025</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">27000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">광주</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60026</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">29000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60027</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">30000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">울산</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60028</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">31000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">세종</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60029</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">36110000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60030</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">51000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60031</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">43000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60032</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">44000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60033</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">52000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60034</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">46000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60035</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">47000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60036</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">48000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">제주</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60037</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">50000000</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">6대광역시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60038</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000040</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">5대광역시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60039</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000050</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">9개도</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60040</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000060</td>
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">8개도</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">60041</td>
+								
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000070</td>
+								
+							</tr>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+				</tbody>
+			</table>
+		
+
+		
+				<table style="width: 850px; border: 1px solid #000000; margin-top: 20px;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+					
+						
+					
+				</colgroup>
+					
+						
+						<!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 바꿔줘야함 -->
+							<thead>
+								<tr>
+									<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>분류명</th>
+										<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>분류코드</th>
+								</tr>
+							</thead>
+						
+						
+					
+
+				<tbody>
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">5년 이하</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">50001</td>
+								
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">10년 초과 ~ 15년 이하</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">50003</td>
+								
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">20년 초과</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">50005</td>
+								
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">5년 초과 ~ 10년 이하</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">50006</td>
+								
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">15년 초과 ~ 20년 이하</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">50007</td>
+								
+									
+								
+							</tr>
+						
+					
+						
+					
+				</tbody>
+			</table>
+		
+
+	
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+</body>
+</html>

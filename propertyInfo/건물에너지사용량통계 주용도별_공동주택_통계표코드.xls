@@ -1,0 +1,3932 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+		
+		
+		
+			
+		
+		
+
+		
+
+		
+
+		
+	
+	
+</head>
+<body>
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+	
+		<!-- OpenAPI_항목분류 리스트 2025-01-06 추가 -->
+		
+				<table style="width: 850px; border: 1px solid #000000;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+				</colgroup>
+				<thead>
+					<tr>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목명</th>
+						<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>항목코드</th>
+					</tr>
+				</thead>
+				<tbody>
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">건물수 </td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100001</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">연면적</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100002</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">에너지사용량</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">100003</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">에너지사용량>전기</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">110004</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">에너지사용량>도시가스</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">110005</td>
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">에너지사용량>지역난방</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">110006</td>
+							</tr>
+						
+					
+				</tbody>
+			</table>
+		
+
+		
+
+		
+				<table style="width: 850px; border: 1px solid #000000; margin-top: 20px;">
+				<colgroup>
+					<col style="width:200px;"/>
+					<col style="width:200px;"/>
+					
+						  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 바꿔줘야함 -->
+						<col style="width:200px;"/>
+						
+					
+				</colgroup>
+					
+						
+						
+						
+							<thead>
+								<tr>
+									<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>분류명</th>
+									
+									
+										<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>지역코드</th>
+										<th align="center" bgcolor='#CEFBC9' style='border:1px solid #d3d3d3;'>법정동코드</th>
+									
+								</tr>
+							</thead>
+						
+					
+
+				<tbody>
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전국</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500001</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">1000010</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500002</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500003</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500004</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500005</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">광주</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500006</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">29000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500007</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">30000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">울산</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500008</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">31000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">세종</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500009</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">36110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500010</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500011</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500012</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500013</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500014</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500015</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500016</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500017</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">제주</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">500018</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">50000000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>종로구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510003</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>중구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510004</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11140000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>용산구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510005</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>성동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510006</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11200000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>광진구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510007</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11215000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>동대문구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510008</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11230000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>중랑구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510009</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11260000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>성북구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510010</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11290000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강북구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510011</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11305000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>도봉구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510012</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11320000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>노원구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510013</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11350000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>은평구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510014</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11380000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>서대문구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510015</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11410000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>마포구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510016</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11440000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>양천구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510017</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11470000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510018</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11500000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>구로구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510019</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11530000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>금천구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510020</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11545000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>영등포구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510021</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11560000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>동작구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510022</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11590000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>관악구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510023</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11620000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>서초구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510024</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11650000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강남구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510025</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11680000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>송파구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510026</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11710000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">서울>강동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510027</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">11740000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>중구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510029</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510030</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26140000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510031</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>영도구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510032</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26200000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>부산진구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510033</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26230000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>동래구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510034</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26260000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>남구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510035</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26290000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>북구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510036</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26320000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>해운대구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510037</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26350000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>사하구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510038</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26380000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>금정구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510039</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26410000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>강서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510040</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26440000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>연제구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510041</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26470000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>수영구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510042</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26500000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>사상구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510043</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26530000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">부산>기장군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510044</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">26710000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>중구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510046</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510047</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27140000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510048</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>남구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510049</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27200000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>북구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510050</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27230000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>수성구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510051</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27260000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>달서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510052</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27290000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>달성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510053</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27710000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>중구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510055</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510056</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28140000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>미추홀구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510057</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28177000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>연수구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510058</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28185000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>남동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510059</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28200000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>부평구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510060</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28237000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>계양구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510061</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28245000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510062</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28260000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>강화군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510063</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28710000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">인천>옹진군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510064</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">28720000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">광주>동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510066</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">29110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">광주>서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510067</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">29140000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">광주>남구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510068</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">29155000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">광주>북구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510069</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">29170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">광주>광산구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510070</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">29200000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전>동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510072</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">30110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전>중구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510073</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">30140000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전>서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510074</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">30170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전>유성구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510075</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">30200000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대전>대덕구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510076</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">30230000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">울산>중구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510078</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">31110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">울산>남구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510079</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">31140000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">울산>동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510080</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">31170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">울산>북구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510081</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">31200000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">울산>울주군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510082</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">31710000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>의정부시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510087</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41150000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>부천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510089</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41190000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>광명시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510090</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41210000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>평택시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510091</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41220000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>동두천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510092</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41250000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>과천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510095</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41290000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>구리시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510096</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41310000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>남양주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510097</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41360000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>오산시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510098</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41370000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>시흥시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510099</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41390000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>군포시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510100</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41410000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>의왕시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510101</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41430000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>하남시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510102</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41450000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>파주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510104</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41480000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>이천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510105</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41500000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>안성시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510106</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41550000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>김포시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510107</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41570000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>화성시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510108</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41590000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>광주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510109</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41610000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>양주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510110</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41630000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>포천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510111</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41650000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>여주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510112</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41670000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>연천군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510113</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41800000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>가평군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510114</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41820000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>양평군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510115</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41830000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>춘천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510117</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>원주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510118</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51130000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>강릉시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510119</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51150000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>동해시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510120</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>태백시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510121</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51190000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>속초시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510122</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51210000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>삼척시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510123</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51230000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>홍천군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510124</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51720000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>횡성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510125</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51730000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>영월군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510126</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51750000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>평창군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510127</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51760000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>정선군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510128</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51770000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>철원군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510129</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51780000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>화천군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510130</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51790000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>양구군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510131</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51800000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>인제군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510132</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51810000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>고성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510133</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51820000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">강원>양양군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510134</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">51830000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>충주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510137</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43130000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>제천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510138</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43150000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>보은군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510139</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43720000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>옥천군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510140</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43730000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>영동군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510141</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43740000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>증평군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510142</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43745000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>진천군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510143</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43750000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>괴산군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510144</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43760000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>음성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510145</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43770000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>단양군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510146</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43800000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>공주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510149</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44150000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>보령시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510150</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44180000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>아산시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510151</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44200000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>서산시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510152</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44210000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>논산시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510153</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44230000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>계룡시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510154</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44250000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>당진시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510155</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44270000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>금산군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510156</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44710000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>부여군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510157</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44760000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>서천군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510158</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44770000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>청양군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510159</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44790000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>홍성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510160</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44800000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>예산군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510161</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44810000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>태안군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510162</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44825000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>군산시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510165</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52130000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>익산시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510166</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52140000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>정읍시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510167</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52180000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>남원시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510168</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52190000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>김제시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510169</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52210000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>완주군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510170</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52710000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>진안군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510171</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52720000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>무주군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510172</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52730000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>장수군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510173</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52740000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>임실군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510174</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52750000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>순창군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510175</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52770000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>고창군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510176</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52790000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>부안군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510177</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52800000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>목포시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510179</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>여수시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510180</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46130000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>순천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510181</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46150000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>나주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510182</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>광양시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510183</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46230000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>담양군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510184</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46710000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>곡성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510185</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46720000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>구례군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510186</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46730000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>고흥군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510187</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46770000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>보성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510188</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46780000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>화순군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510189</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46790000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>장흥군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510190</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46800000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>강진군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510191</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46810000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>해남군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510192</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46820000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>영암군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510193</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46830000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>무안군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510194</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46840000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>함평군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510195</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46860000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>영광군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510196</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46870000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>장성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510197</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46880000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>완도군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510198</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46890000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>진도군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510199</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46900000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전남>신안군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510200</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">46910000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>경주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510203</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47130000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>김천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510204</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47150000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>안동시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510205</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>구미시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510206</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47190000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>영주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510207</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47210000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>영천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510208</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47230000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>상주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510209</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47250000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>문경시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510210</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47280000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>경산시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510211</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47290000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>군위군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510212</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47720000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>의성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510213</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47730000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>청송군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510214</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47750000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>영양군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510215</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47760000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>영덕군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510216</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47770000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>청도군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510217</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47820000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>고령군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510218</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47830000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>성주군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510219</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47840000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>칠곡군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510220</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47850000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>예천군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510221</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47900000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>봉화군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510222</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47920000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>울진군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510223</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47930000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>울릉군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510224</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47940000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>진주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510227</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48170000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>통영시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510228</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48220000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>사천시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510229</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48240000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>김해시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510230</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48250000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>밀양시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510231</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48270000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>거제시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510232</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48310000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>양산시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510233</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48330000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>의령군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510234</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48720000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>함안군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510235</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48730000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>창녕군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510236</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48740000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>고성군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510237</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48820000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>남해군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510238</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48840000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>하동군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510239</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48850000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>산청군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510240</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48860000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>함양군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510241</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48870000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>거창군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510242</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48880000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>합천군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510243</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48890000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">제주>제주시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510245</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">50110000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">제주>서귀포시</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">510246</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">50130000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>수원시>장안구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520085</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41111000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>수원시>권선구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520086</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41113000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>수원시>팔달구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520087</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41115000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>수원시>영통구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520088</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41117000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>성남시>수정구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520089</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41131000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>성남시>중원구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520090</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41133000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>성남시>분당구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520091</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41135000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>안양시>만안구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520093</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41171000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>안양시>동안구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520094</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41173000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>안산시>상록구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520099</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41271000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>안산시>단원구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520100</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41273000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>고양시>덕양구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520101</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41281000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>고양시>일산동구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520102</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41285000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>고양시>일산서구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520103</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41287000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>용인시>처인구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520112</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41461000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>용인시>기흥구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520113</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41463000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경기>용인시>수지구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520114</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">41465000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>청주시>상당구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520147</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43111000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>청주시>서원구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520148</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43112000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>청주시>흥덕구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520149</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43113000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충북>청주시>청원구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520150</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">43114000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>천안시>동남구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520162</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44131000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">충남>천안시>서북구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520163</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">44133000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>전주시>완산구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520179</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52111000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">전북>전주시>덕진구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520180</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">52113000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>포항시>남구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520218</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47111000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경북>포항시>북구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520219</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">47113000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>창원시>의창구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520243</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48121000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>창원시>성산구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520244</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48123000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>창원시>마산합포구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520245</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48125000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>창원시>마산회원구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520246</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48127000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">경남>창원시>진해구</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520247</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">48129000</td>
+									
+								
+							</tr>
+						
+					
+						
+							<tr>
+								<td style="text-align:left; border:1px solid #d3d3d3;">대구>군위군</td>
+								<td style="text-align:left; border:1px solid #d3d3d3;">520248</td>
+								
+									  <!-- DB 정렬이 그룹-분류-항목 순서로 혹시 order by 바뀌면 이것도 바꿔줘야함 -->
+									<td style="text-align:left; border:1px solid #d3d3d3;">27720000</td>
+									
+								
+							</tr>
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+				</tbody>
+			</table>
+		
+
+	
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+</body>
+</html>

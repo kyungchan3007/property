@@ -1,5 +1,8 @@
-import { Bot, User } from "lucide-react";
-import { HistoryMessage, HistoryMessageProps } from "../model/userChatBot";
+import Image from "next/image";
+import { User } from "lucide-react";
+import { HistoryMessageProps } from "../types/userChatBox/userChatBot";
+import pinguImage from "@/src/assets/image/pingu.jpeg";
+import pinga from "@/src/assets/image/pinga.jpeg";
 
 export const ChatHistory = ({ message }: HistoryMessageProps) => {
   return (
@@ -8,17 +11,30 @@ export const ChatHistory = ({ message }: HistoryMessageProps) => {
       className={`flex gap-2 ${message.role === "user" ? "flex-row-reverse" : "flex-row"}`}
     >
       <div className="flex-shrink-0 mt-1">
-        <div
-          className={`w-7 h-7 rounded-full flex items-center justify-center ${
-            message.role === "user" ? "bg-gray-800" : "bg-blue-500"
-          }`}
-        >
-          {message.role === "user" ? (
+        {message.role === "user" ? (
+          <div className="w-7 h-7 rounded-full flex items-center justify-center bg-gray-800">
             <User className="w-4 h-4 text-white" strokeWidth={2.5} />
-          ) : (
-            <Bot className="w-4 h-4 text-white" strokeWidth={2.5} />
-          )}
-        </div>
+            <Image
+              src={pinga}
+              alt="핑구 어시스턴트"
+              width={28}
+              height={28}
+              className="w-full h-full object-cover"
+              priority
+            />
+          </div>
+        ) : (
+          <div className="w-7 h-7 rounded-full overflow-hidden bg-blue-100">
+            <Image
+              src={pinguImage}
+              alt="핑구 어시스턴트"
+              width={28}
+              height={28}
+              className="w-full h-full object-cover"
+              priority
+            />
+          </div>
+        )}
       </div>
 
       <div

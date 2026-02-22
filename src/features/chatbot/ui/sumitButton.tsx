@@ -1,6 +1,8 @@
 import { Send } from "lucide-react";
-import { HistoryMessage, MessageSumitButtonPros } from "../model/userChatBot";
-import { useChatAI } from "../model/userChatAI";
+import { useMemo, KeyboardEvent } from "react";
+
+import { HttpChatGateway, useChatAI, useSessionIdStore } from "../model";
+import { HistoryMessage, MessageSumitButtonPros } from "../types/userChatBox";
 
 export const SumitButton = ({
   input,
@@ -9,9 +11,11 @@ export const SumitButton = ({
   setMessage,
   setIsLoading,
 }: MessageSumitButtonPros) => {
-  const { sendChat, isGptLoading, error } = useChatAI();
+  const gateway = useMemo(() => new HttpChatGateway(), []);
+  const { sendChat } = useChatAI(gateway);
+  const { sessionId } = useSessionIdStore();
 
-  const handleKeyDown = (e: React.KeyboardEvent) => {
+  const handleKeyDown = (e: KeyboardEvent) => {
     if (e.key === "Enter" && !e.shiftKey) {
       e.preventDefault();
       handleSubmit();
@@ -20,9 +24,11 @@ export const SumitButton = ({
 
   const handleSubmit = async () => {
     if (!input.trim() || isLoading) return;
+    if (!sessionId) return;
 
     const userMessage: HistoryMessage = {
-      id: Date.now().toString(),
+      sessionId: sessionId,
+      id: `msg_${Date.now().toString()}`,
       content: input,
       role: "user",
       timestamp: new Date(),
@@ -31,21 +37,24 @@ export const SumitButton = ({
     setMessage((prev) => [...prev, userMessage]);
     setInput("");
     setIsLoading(true);
+
     try {
-      const reply = await sendChat([
-        { role: "user", content: input, id: userMessage.id, timestamp: new Date() },
-      ]);
+      const reply = await sendChat(
+        [{ role: "user", content: input, id: userMessage.id }],
+        sessionId,
+      );
 
       const assistantMessage: HistoryMessage = {
+        sessionId: sessionId,
         id: (Date.now() + 1).toString(),
         content: reply || "응답이 없습니다 😅",
         role: "assistant",
         timestamp: new Date(),
       };
-
       setMessage((prev) => [...prev, assistantMessage]);
     } catch (error) {
       const errorMessage: HistoryMessage = {
+        sessionId: sessionId,
         id: (Date.now() + 2).toString(),
         content: "⚠️ 서버 응답에 문제가 있습니다. 잠시 후 다시 시도해주세요.",
         role: "assistant",
@@ -64,7 +73,7 @@ export const SumitButton = ({
             <textarea
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              onKeyDown={handleKeyDown}
+              onKeyDown={(e) => handleKeyDown(e)}
               placeholder="메시지를 입력해주세요"
               className="w-full px-5 py-3 bg-transparent focus:outline-none resize-none text-[15px] text-gray-900 placeholder-gray-400 font-medium"
               rows={1}
