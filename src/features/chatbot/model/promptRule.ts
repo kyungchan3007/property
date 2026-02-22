@@ -1,1 +1,1 @@
-export { PROMPT_RULES, detectPromptType, resolvePromptRule } from "@property/chat-core";
+export { PROMPT_RULES, detectPromptType, resolvePromptRule } from "pinhouse-chat";
