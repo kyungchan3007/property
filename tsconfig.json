@@ -26,10 +26,10 @@
       "@/*": [
         "./*"
       ],
-      "@property/chat-core": [
+      "pinhouse-chat": [
         "./packages/chat-core/src/index.ts"
       ],
-      "@property/chat-core/*": [
+      "pinhouse-chat/*": [
         "./packages/chat-core/src/*"
       ]
     }

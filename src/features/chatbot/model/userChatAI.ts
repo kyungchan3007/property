@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { resolvePromptRule, toChatRequestMessages } from "@property/chat-core";
+import { resolvePromptRule, toChatRequestMessages } from "pinhouse-chat";
 import { HistoryMessage } from "../types/userChatBox";
 import { useMessageBoxStore } from "./promptStore";
 import { ChatGateway } from "./chatGateway";

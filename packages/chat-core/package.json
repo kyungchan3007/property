@@ -1,7 +1,16 @@
 {
-  "name": "@property/chat-core",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@kyungchan3007/pinhouse-chat",
+  "version": "0.1.2",
+  "description": "Reusable core logic for the Pinhouse chatbot.",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyungchan3007/property.git",
+    "directory": "packages/chat-core"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -15,6 +24,8 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc -p tsconfig.json"
+    "clean": "rm -rf dist",
+    "build": "npm run clean && tsc -p tsconfig.json",
+    "prepublishOnly": "npm run build"
   }
 }
