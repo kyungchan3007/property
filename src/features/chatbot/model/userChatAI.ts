@@ -1,9 +1,10 @@
 import { useState } from "react";
 import { HistoryMessage } from "../types/userChatBox";
 import { detectPromptType, PROMPT_RULES } from "./promptRule";
-import { useMessageBoxStore, useSessionIdStore } from "./promptStore";
+import { useMessageBoxStore } from "./promptStore";
+import { ChatGateway } from "./chatGateway";
 
-export const useChatAI = () => {
+export const useChatAI = (gateway: ChatGateway) => {
   const [isGptLoading, setIsGptLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const { addMessage } = useMessageBoxStore();
@@ -21,18 +22,14 @@ export const useChatAI = () => {
       setIsGptLoading(true);
       setError(null);
 
-      const res = await fetch("/api/chat", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          messages,
-          promptType: promptRule,
-        }),
+      const data = await gateway.send({
+        messages: messages.map((m) => ({
+          id: m.id,
+          role: m.role,
+          content: m.content,
+        })),
+        promptType: promptRule,
       });
-
-      if (!res.ok) throw new Error("요청 실패");
-
-      const data = await res.json();
 
       addMessage(sessionId, {
         sessionId,
