@@ -25,6 +25,12 @@
     "paths": {
       "@/*": [
         "./*"
+      ],
+      "@property/chat-core": [
+        "./packages/chat-core/src/index.ts"
+      ],
+      "@property/chat-core/*": [
+        "./packages/chat-core/src/*"
       ]
     }
   },

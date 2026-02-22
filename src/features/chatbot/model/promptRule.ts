@@ -1,1 +1,1 @@
-export { PROMPT_RULES, detectPromptType, resolvePromptRule } from "../core";
+export { PROMPT_RULES, detectPromptType, resolvePromptRule } from "@property/chat-core";
