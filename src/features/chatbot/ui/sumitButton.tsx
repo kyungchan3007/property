@@ -1,6 +1,7 @@
 import { Send } from "lucide-react";
+import { useMemo, KeyboardEvent } from "react";
 
-import { useChatAI, useSessionIdStore } from "../model";
+import { HttpChatGateway, useChatAI, useSessionIdStore } from "../model";
 import { HistoryMessage, MessageSumitButtonPros } from "../types/userChatBox";
 
 export const SumitButton = ({
@@ -10,10 +11,11 @@ export const SumitButton = ({
   setMessage,
   setIsLoading,
 }: MessageSumitButtonPros) => {
-  const { sendChat } = useChatAI();
+  const gateway = useMemo(() => new HttpChatGateway(), []);
+  const { sendChat } = useChatAI(gateway);
   const { sessionId } = useSessionIdStore();
 
-  const handleKeyDown = (e: React.KeyboardEvent) => {
+  const handleKeyDown = (e: KeyboardEvent) => {
     if (e.key === "Enter" && !e.shiftKey) {
       e.preventDefault();
       handleSubmit();
