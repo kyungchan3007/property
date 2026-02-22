@@ -5,3 +5,11 @@ export type ChatRequestMessage = {
   role: ChatRole;
   content: string;
 };
+
+export type ChatHistoryMessage = {
+  id: string;
+  content: string;
+  role: ChatRole;
+  sessionId: string;
+  timestamp: Date;
+};

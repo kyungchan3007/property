@@ -1,7 +1,6 @@
-import { HistoryMessage } from "../types/userChatBox";
-import { ChatRequestMessage } from "./chatTypes";
+import { ChatHistoryMessage, ChatRequestMessage } from "./chatTypes";
 
-export type OutboundMessage = Omit<HistoryMessage, "timestamp" | "sessionId">;
+export type OutboundMessage = Omit<ChatHistoryMessage, "timestamp" | "sessionId">;
 
 export const toChatRequestMessages = (messages: OutboundMessage[]): ChatRequestMessage[] => {
   return messages.map((message) => ({
@@ -11,7 +10,7 @@ export const toChatRequestMessages = (messages: OutboundMessage[]): ChatRequestM
   }));
 };
 
-export const createUserMessage = (sessionId: string, content: string): HistoryMessage => {
+export const createUserMessage = (sessionId: string, content: string): ChatHistoryMessage => {
   return {
     sessionId,
     id: `msg_${Date.now().toString()}`,
@@ -21,7 +20,10 @@ export const createUserMessage = (sessionId: string, content: string): HistoryMe
   };
 };
 
-export const createAssistantMessage = (sessionId: string, content: string): HistoryMessage => {
+export const createAssistantMessage = (
+  sessionId: string,
+  content: string,
+): ChatHistoryMessage => {
   return {
     sessionId,
     id: (Date.now() + 1).toString(),
@@ -31,7 +33,7 @@ export const createAssistantMessage = (sessionId: string, content: string): Hist
   };
 };
 
-export const createAssistantErrorMessage = (sessionId: string): HistoryMessage => {
+export const createAssistantErrorMessage = (sessionId: string): ChatHistoryMessage => {
   return {
     sessionId,
     id: (Date.now() + 2).toString(),

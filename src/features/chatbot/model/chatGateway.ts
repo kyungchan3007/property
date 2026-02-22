@@ -1,4 +1,4 @@
-import { ChatRequestMessage } from "../core";
+import { ChatRequestMessage } from "@property/chat-core";
 
 export type ChatRequest = {
   messages: ChatRequestMessage[];

@@ -3,7 +3,7 @@ import {
   createAssistantErrorMessage,
   createAssistantMessage,
   createUserMessage,
-} from "../core";
+} from "@property/chat-core";
 import { HistoryMessage } from "../types/userChatBox";
 
 type UseChatSubmitParams = {
