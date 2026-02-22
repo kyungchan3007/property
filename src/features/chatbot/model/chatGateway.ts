@@ -1,10 +1,4 @@
-export type ChatRole = "user" | "assistant";
-
-export type ChatRequestMessage = {
-  id: string;
-  role: ChatRole;
-  content: string;
-};
+import { ChatRequestMessage } from "../core";
 
 export type ChatRequest = {
   messages: ChatRequestMessage[];
