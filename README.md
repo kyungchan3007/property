@@ -81,10 +81,3 @@
 3. `/api/chat` 요청 스키마 검증(zod 등) 및 에러 타입 안정성 강화
 4. `SubmitButton` 등 네이밍 표준화 및 미사용/빈 모듈 정리
 5. `packages/chat-core`에 프롬프트 판별 및 메시지 팩토리 단위 테스트 추가
-
-## 본 분석에서 수행한 검증
-
-- `npm run lint` 실행 결과: 실패  
-  - 원인: ESM 환경에서 `require` 사용
-- `npm run build` 실행 결과: 실패  
-  - 원인: Next font 단계에서 Google Fonts 네트워크 fetch 오류
